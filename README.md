@@ -1,11 +1,10 @@
+A passionate Software Engineer Asprint from Rajasthan India
 
-                                      <div id="header" align="center">
+                                                                    <div id="header" align="center">
                                                <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
                                            </div>
 
 
-
-A passionate Software Engineer Asprint from Rajasthan India
 
 
 🔭 I’m currently learning Data structures and algorithms With C++
