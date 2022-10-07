@@ -1,9 +1,4 @@
 A passionate Software Engineer Asprint from Rajasthan India
-
-  <div id="header" align="justify">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="full"/>
-</div>
-
                                         
 🔭 I’m currently learning Data structures and algorithms With C++
 
@@ -20,3 +15,7 @@ Linkedin : https://www.linkedin.com/in/karan-sharma-b-07899218b/
 
 ⚡Learn everyday...
 
+ 
+  <div id="header" align="justify">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="full"/>
+</div>
