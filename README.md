@@ -1,7 +1,7 @@
 A passionate Software Engineer Asprint from Rajasthan India
 
-  <div id="header" align="left">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <div id="header" align="align-right">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="full"/>
 </div>
 
                                         
