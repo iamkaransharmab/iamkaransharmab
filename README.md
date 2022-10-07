@@ -16,6 +16,6 @@ Linkedin : https://www.linkedin.com/in/karan-sharma-b-07899218b/
 ⚡Learn everyday...
 
  
-  <div id="header" align="justify">
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="full"/>
 </div>
