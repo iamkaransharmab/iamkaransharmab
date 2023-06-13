@@ -10,7 +10,7 @@ Ex- Technical Intern at Internship Studio India.
 
 📫 How to reach me karansharmab15072001@gmail.com
 
-Linkedin : https://www.linkedin.com/in/karan-sharma-b-07899218b/ 
+Linkedin : https://www.linkedin.com/in/iamkaransharmab/
 
 
 ⚡Learn everyday...
