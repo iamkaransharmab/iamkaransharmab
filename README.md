@@ -13,7 +13,7 @@ Ex- Technical Intern at Internship Studio India.
 Linkedin : https://www.linkedin.com/in/iamkaransharmab/
 
 
-⚡Learn everyday...
+⚡Learn everyday even week everyday...
 
  
   <div id="header" align="center">
