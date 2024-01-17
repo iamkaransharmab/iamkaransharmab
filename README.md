@@ -2,7 +2,7 @@ A passionate Software Engineer Asprint from Rajasthan India
                                         
 🔭 I’m currently learning Data structures and algorithms With C++
 
-Ex- Technical Intern at Internship Studio India.
+Ex- Technical Intern at Internship Studio India.(CheckOut Linkedin )
 
 🌱 Tech stack that I love working in : Javascript + Reactjs + C++
 
@@ -13,7 +13,7 @@ Ex- Technical Intern at Internship Studio India.
 Linkedin : https://www.linkedin.com/in/iamkaransharmab/
 
 
-⚡Learn everyday even week everyday...
+⚡Learn everyday Even week everyWeek...
 
  
   <div id="header" align="center">
