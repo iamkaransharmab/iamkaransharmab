@@ -1,12 +1,12 @@
-A passionate Software Engineer Asprint from Rajasthan India
+A passionate Software Engineer Asprint from Rajasthan, India, Asia.
                                         
-🔭 I’m currently learning Data structures and algorithms With C++
+🔭 I’m currently learning DevOps 
 
-Ex- Technical Intern at Internship Studio India.(CheckOut Linkedin )
+Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
 🌱 Tech stack that I love working in : Javascript + Reactjs + C++
 
-💬 Ask me about React | Javascript | System Design | CS Subjects
+💬 Ask me about React | Javascript | System Design | CS Subjects | AWS |
 
 📫 How to reach me karansharmab15072001@gmail.com
 
