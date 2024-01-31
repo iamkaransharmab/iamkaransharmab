@@ -4,7 +4,7 @@ A passionate Software Engineer Asprint from Rajasthan, India, Asia.
 
 Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
-🌱 Tech stack that I love working in : Javascript + Reactjs + C++
+🌱 Tech stack that I love working on : Javascript + Reactjs + C++ + AWS + SQL-SQL SERVER
 
 💬 Ask me about React | Javascript | System Design | CS Subjects | AWS |
 
