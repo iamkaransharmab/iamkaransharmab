@@ -1,6 +1,6 @@
 A passionate Software Engineer Asprint from Rajasthan, India, Asia.
                                         
-🔭 I’m currently learning DevOps 
+🔭 I’m currently learning DevOps  with AWS
 
 Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
