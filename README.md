@@ -6,14 +6,14 @@ Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
 🌱 Tech stack that I love working on : Javascript + Reactjs + C++ + AWS + MySQL/SQL SERVER
 
-💬 Ask me about React | Javascript | System Design | CS Subjects | AWS |
+💬 Good in : -  React | Javascript | C++ | CS Subjects | AWS |Netwokring | Docker | Kubernets
 
 📫 How to reach me karansharmab15072001@gmail.com
 
 Linkedin : https://www.linkedin.com/in/iamkaransharmab/
 
 
-⚡Learn everyday Even week everyWeek...
+⚡Learn Week -EveryWeek...
 
  
   <div id="header" align="center">
