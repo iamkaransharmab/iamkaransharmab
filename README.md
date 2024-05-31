@@ -2,7 +2,7 @@ A passionate Software Engineer Asprint is from Rajasthan, India.
                                         
 🔭 I’m currently learning DevOps with AWS, GKE
 
-ASE : Currently working as ASE at CData Software India
+ASE: Currently working as ASE at CData Software India.
 Ex - Intern at Cubastion Consulting ,Gurgram ,India.
 Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
