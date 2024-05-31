@@ -3,7 +3,7 @@ A passionate Software Engineer Asprint is from Rajasthan, India.
 🔭 I’m currently learning DevOps with AWS, GKE
 
 Ex - Intern at Cubastion Consulting ,Gurgram ,India.
-Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
+Ex- Technical Intern at Internship Studio India.
 
 🌱 Tech stack that I love working on : Javascript + Reactjs + C++ + AWS + MySQL/SQL SERVER
 
