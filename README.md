@@ -2,12 +2,13 @@ A passionate Software Engineer Asprint is from Rajasthan, India.
                                         
 🔭 I’m currently learning DevOps with AWS, GKE
 
+ASE : Currently working as ASE at CData Software India
 Ex - Intern at Cubastion Consulting ,Gurgram ,India.
 Ex- Technical Intern at Internship Studio India. (CheckOut  at Linkedin )
 
 🌱 Tech stack that I love working on : Javascript + Reactjs + C++ + AWS + MySQL/SQL SERVER
 
-💬 Good in : -  React | Javascript | C++ | CS Subjects -Operating System-DBMS-SQL | AWS |Netwokring | Docker | Kubernets |APIs
+💬 Good in : -  React | Javascript | C++ | CS Subjects -Operating System-DBMS-SQL | AWS |Netwokring | Docker | Kubernets |APIs |GoLang
 
 📫 How to reach me karansharmab15072001@gmail.com
 
